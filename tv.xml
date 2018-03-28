@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+	<c1 href="https://tv.i.ua/trk-ukraina/" name="Україна"></c1>
+	<c1 href="https://tv.i.ua/stb/" name="СТБ"></c1>
+	<c1 href="https://tv.i.ua/ut-1/" name="UA:Перший"></c1>
+	<c1 href="https://tv.i.ua/inter/" name="Інтер"></c1>
+	<c1 href="https://tv.i.ua/novy/" name="Новий"></c1>
+	<c1 href="https://tv.i.ua/ictv/" name="ICTV"></c1>
+	<c1 href="https://tv.i.ua/tet/" name="ТЕТ"></c1>
+</channels>
