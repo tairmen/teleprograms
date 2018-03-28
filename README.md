@@ -1,5 +1,5 @@
 # teleprograms
-this program find serial in teleprograms
+this program find serials in teleprograms
 
 requirments:
 
